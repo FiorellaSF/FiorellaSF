@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning full-stack web development and cybersecurity at a bootcamp.
 - 💞️ I’m looking to collaborate on projects where I feel comfortable and aligned.
 - 📫 If you want to contact me, don´t hesitate to write me an email at afiosf@gmail.com.
-- ⚡ Fun fact: ...
 
 <!---
 FiorellaSF/FiorellaSF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
